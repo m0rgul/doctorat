@@ -1,5 +1,5 @@
 {
-  "name": "express-es6-starter",
+  "name": "facialRecognition_librarian",
   "version": "0.1.0",
   "description": "Seed project for easily getting started with express for es6",
   "scripts": {
@@ -10,22 +10,14 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "lint": "eslint ."
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/tomyitav/express-es6-starter.git"
-  },
-  "keywords": [
-    "Node.js",
-    "Javascript",
-    "Express"
-  ],
-  "author": "Tom Yitav <tomyitav@gmail.com>",
+  "repository": {},
+  "keywords": [],
+  "author": "",
   "dependencies": {
     "body-parser": "^1.15.2",
     "cors": "^2.8.0",
     "express": "4.14.0",
     "lodash": "^4.15.0",
-    "mongoose": "^4.8.6",
     "morgan": "^1.8.2",
     "winston": "^2.3.1",
     "winston-daily-rotate-file": "^1.4.6"
